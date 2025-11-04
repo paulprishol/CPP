@@ -1,6 +1,0 @@
-D:/kasperskiy task/build/CMakeFiles/scanner.dir
-D:/kasperskiy task/build/CMakeFiles/task.dir
-D:/kasperskiy task/build/CMakeFiles/scanner_tests.dir
-D:/kasperskiy task/build/CMakeFiles/test.dir
-D:/kasperskiy task/build/CMakeFiles/edit_cache.dir
-D:/kasperskiy task/build/CMakeFiles/rebuild_cache.dir
